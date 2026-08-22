@@ -53,10 +53,6 @@
   <img src="./github-metrics.svg" alt="GitHub Metrics" width="80%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jivaansh-Yadav&theme=tokyonight&hide_border=true" />
-</p>
-
 ## ⏳ Activity Over Time
 
 <p align="center">
