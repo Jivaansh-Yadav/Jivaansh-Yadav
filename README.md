@@ -56,7 +56,7 @@
 ## ⏳ Activity Over Time
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jivaansh-Yadav&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph-delta-nine.vercel.app/graph?username=Jivaansh-Yadav&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ## 💬 Random Dev Quote
