@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jivaansh-Yadav&style=flat-square&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/badge/-Vibe%20Coder-FF6B6B?style=flat-square" alt="Vibe Coder" />
+  <img src="https://komarev.com/ghpvc/?username=Jivaansh-Yadav&style=plastic&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Vibe_Coder-Full_Stack-red?style=plastic&logo=googlegemini&logoColor=white" alt="Vibe Coder" />
 </p>
 
 ---
@@ -19,25 +19,25 @@
 
 ### 🔨 Building
 
-- **[MeteoNerd](https://github.com/Jivaansh-Yadav/MeteoNerd)** — hyperlocal weather intelligence web app (TanStack Start, React 19, Cloudflare D1)
+- **[Lambda Prep](https://github.com/Jivaansh-Yadav/lambda-prep-test)** — **Resource Hub** for CISCE students.
 
-- *...and much more in the works*
+*...and much more in the works*
 
 ### ✅ Shipped
 
-- **[KrishiLink](https://github.com/Jivaansh-Yadav/KrishiLink)** — **Bridging agriculture & technology** for a stronger India (Supabase, Cloudflare Pages)
+- **[KrishiLink](https://github.com/Jivaansh-Yadav/KrishiLink)** — **Bridging agriculture & technology** for a stronger India.
 
-- **[FlowIntel](https://github.com/Aman-Gautam67/Flow-Intel)** — **Intelligence engine for automation workflows**, auditing them for security & quality (Next.js 16, React 19, Bun, TypeScript, PostgreSQL/Drizzle)
+- **[FlowIntel](https://github.com/Aman-Gautam67/Flow-Intel)** — **Intelligence engine for automation workflows**, auditing them for security & quality.
 
-- **[Pookoo Run](https://github.com/Jivaansh-Yadav/pookoo-run)** — **2D endless runner**, dodge firewolves and shapeshift through an enchanted forest (TypeScript)
+- **[Pookoo Run](https://github.com/Jivaansh-Yadav/pookoo-run)** — **2D endless runner**, dodge firewolves and shapeshift through an enchanted forest.
 
-- **[ICSE Resources](https://github.com/Jivaansh-Yadav/icse-resources)** — **Resource hub** for ICSE students (TypeScript)
+- **[ICSE Resources](https://github.com/Jivaansh-Yadav/icse-resources)** — **Resource hub** for ICSE students.
 
-- *...and much more on the way*
+- **[MeteoNerd](https://github.com/Jivaansh-Yadav/MeteoNerd)** — **Hyperlocal weather intelligence** web app.
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,git,react,python,kotlin,cloudflare,supabase,tailwind,linux,java,vercel,github,bash" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,python,cloudflare,supabase,tailwind,java,github" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ## ⏳ Activity Over Time
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-delta-nine.vercel.app/graph?username=Jivaansh-Yadav&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph-self-chi.vercel.app/graph?username=Jivaansh-Yadav&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ## 💬 Random Dev Quote
