@@ -105,14 +105,14 @@
 <h2 align="center" id="stats"><img src="assets/ui/h-stats.svg" width="352" alt="GitHub Dashboard" /></h2>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Jivaansh-Yadav&rank_icon=github&custom_title=Jivaansh%27s%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=18" alt="GitHub stats" width="39%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Jivaansh-Yadav&layout=donut-vertical&langs_count=6&theme=tokyonight&hide_border=true&border_radius=18" width="30%" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Jivaansh-Yadav&rank_icon=github&custom_title=Jivaansh%27s%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=18" alt="GitHub stats" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=Jivaansh-Yadav&theme=tokyonight&hide_border=true&border_radius=18" alt="GitHub streak" width="50%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Jivaansh-Yadav&layout=donut&langs_count=5&theme=tokyonight&hide_border=true&border_radius=18" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com/?user=Jivaansh-Yadav&theme=tokyonight&hide_border=true&border_radius=18" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jivaansh-Yadav/Jivaansh-Yadav/refs/heads/main/github-metrics.svg" alt="GitHub Metrics" width="60%" />
+  <img src="https://raw.githubusercontent.com/Jivaansh-Yadav/Jivaansh-Yadav/refs/heads/main/github-metrics.svg" alt="GitHub Metrics" width="90%" />
 </p>
 
 <h3 align="center">🏆 Trophies</h3>
