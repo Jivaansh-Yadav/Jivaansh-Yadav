@@ -118,13 +118,13 @@
 <h3 align="center">🏆 Trophies</h3>
   <br />
   <p align="center">
-    <img src="https://github-trophies.devomb.com/?username=Jivaansh-Yadav&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" width="60%"/>
+    <img src="https://github-trophies.devomb.com/?username=Jivaansh-Yadav&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
   </p>
 
 <h3 align="center">⏳ Activity over time</h3>
   <br />
   <p align="center">
-    <img src="https://github-readme-activity-graph-self-chi.vercel.app/graph?username=Jivaansh-Yadav&theme=tokyo-night&hide_border=true&radius=18" width="90%" alt="Activity graph" />
+    <img src="https://github-readme-activity-graph-self-chi.vercel.app/graph?username=Jivaansh-Yadav&theme=tokyo-night&hide_border=true&radius=18" alt="Activity graph" />
   </p>
 
 
