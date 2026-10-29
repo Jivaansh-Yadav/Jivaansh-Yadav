@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="206" viewBox="0 0 400 206" role="img">
+<style>
+  .t{font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;}
+  .m{font-family:'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', monospace;}
+  .fade{animation:fade .9s ease both}
+  .run{stroke-dasharray:187.7 985.4;animation:run 7s linear infinite}
+  .pulse{animation:pulse 1.8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+  @keyframes fade{from{opacity:0}to{opacity:1}}
+  @keyframes run{from{stroke-dashoffset:0}to{stroke-dashoffset:-1173.1}}
+  @keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(1.6)}}
+  @media (prefers-reduced-motion: reduce){.fade,.run,.pulse{animation:none}}
+</style>
+<defs>
+  <linearGradient id="bg7" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#171c26"/><stop offset="1" stop-color="#0d1117"/>
+  </linearGradient>
+  <radialGradient id="glow7" cx="1" cy="0" r="0.9">
+    <stop offset="0" stop-color="#36BCF7" stop-opacity="0.22"/><stop offset="1" stop-color="#36BCF7" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<g class="fade">
+  <rect x="1" y="1" width="398" height="204" rx="18" fill="url(#bg7)" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="1" y="1" width="398" height="204" rx="18" fill="url(#glow7)"/>
+  <rect x="1" y="1" width="398" height="204" rx="18" fill="none" stroke="#36BCF7" stroke-width="2.2" stroke-linecap="round" class="run"/>
+<path d="M200 56 C203 74 208 79 226 82 C208 85 203 90 200 108 C197 90 192 85 174 82 C192 79 197 74 200 56 Z" fill="#36BCF7"/>
+<text x="200" y="124" text-anchor="middle" font-size="18" font-weight="700" fill="#e6edf3" class="t">...and much more in the works</text>
+<text x="200" y="148" text-anchor="middle" font-size="12.5" fill="#9da7b3" class="t">Follow along for the next weird side-quest.</text>
+<text x="200" y="184" text-anchor="middle" font-size="13" font-weight="700" fill="#36BCF7" class="t">Browse all repositories →</text>
+</g>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="270" viewBox="0 0 400 270" role="img">
+<style>
+  .t{font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;}
+  .m{font-family:'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', monospace;}
+  .fade{animation:fade .9s ease both}
+  .run{stroke-dasharray:208.2 1092.9;animation:run 7s linear infinite}
+  .pulse{animation:pulse 1.8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+  @keyframes fade{from{opacity:0}to{opacity:1}}
+  @keyframes run{from{stroke-dashoffset:0}to{stroke-dashoffset:-1301.1}}
+  @keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(1.6)}}
+  @media (prefers-reduced-motion: reduce){.fade,.run,.pulse{animation:none}}
+</style>
+<defs>
+  <linearGradient id="bg21" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#171c26"/><stop offset="1" stop-color="#0d1117"/>
+  </linearGradient>
+  <radialGradient id="glow21" cx="1" cy="0" r="0.9">
+    <stop offset="0" stop-color="#36BCF7" stop-opacity="0.22"/><stop offset="1" stop-color="#36BCF7" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<g class="fade">
+  <rect x="1" y="1" width="398" height="268" rx="18" fill="url(#bg21)" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="1" y="1" width="398" height="268" rx="18" fill="url(#glow21)"/>
+  <rect x="1" y="1" width="398" height="268" rx="18" fill="none" stroke="#36BCF7" stroke-width="2.2" stroke-linecap="round" class="run"/>
+<text x="28" y="50" font-size="19" font-weight="700" fill="#e6edf3" class="t">Vibe coder, full-stack by feel</text>
+<text x="28" y="84" font-size="13.5" fill="#9da7b3" class="t">I move fast, prototype by feel, and iterate</text>
+<text x="28" y="104" font-size="13.5" fill="#9da7b3" class="t">in the open. I build end-to-end (frontend,</text>
+<text x="28" y="124" font-size="13.5" fill="#9da7b3" class="t">backend, deployment), mostly in the</text>
+<text x="28" y="144" font-size="13.5" fill="#9da7b3" class="t">TypeScript / React / Cloudflare world.</text>
+<text x="28" y="184" font-size="13.5" fill="#9da7b3" class="t">Constantly hunting for the next weird</text>
+<text x="28" y="204" font-size="13.5" fill="#9da7b3" class="t">problem worth prototyping.</text>
+
+</g>
+</svg>

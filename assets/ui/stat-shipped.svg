@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="104" viewBox="0 0 190 104" role="img">
+<style>
+  .t{font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;}
+  .m{font-family:'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', monospace;}
+  .fade{animation:fade .9s ease both}
+  .run{stroke-dasharray:87.9 461.2;animation:run 7s linear infinite}
+  .pulse{animation:pulse 1.8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+  @keyframes fade{from{opacity:0}to{opacity:1}}
+  @keyframes run{from{stroke-dashoffset:0}to{stroke-dashoffset:-549.1}}
+  @keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(1.6)}}
+  @media (prefers-reduced-motion: reduce){.fade,.run,.pulse{animation:none}}
+</style>
+<defs>
+  <linearGradient id="bg11" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#171c26"/><stop offset="1" stop-color="#0d1117"/>
+  </linearGradient>
+  <radialGradient id="glow11" cx="1" cy="0" r="0.9">
+    <stop offset="0" stop-color="#9ece6a" stop-opacity="0.22"/><stop offset="1" stop-color="#9ece6a" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<g class="fade">
+  <rect x="1" y="1" width="188" height="102" rx="18" fill="url(#bg11)" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="1" y="1" width="188" height="102" rx="18" fill="url(#glow11)"/>
+  <rect x="1" y="1" width="188" height="102" rx="18" fill="none" stroke="#9ece6a" stroke-width="2.2" stroke-linecap="round" class="run"/>
+<text x="95" y="52" text-anchor="middle" font-size="34" font-weight="800" fill="#9ece6a" class="t">5</text>
+<text x="95" y="80" text-anchor="middle" font-size="9.5" font-weight="600" letter-spacing="1.6" fill="#9da7b3" class="t">PROJECTS SHIPPED</text>
+</g>
+</svg>
