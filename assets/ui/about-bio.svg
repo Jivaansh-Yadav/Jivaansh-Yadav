@@ -23,12 +23,12 @@
   <rect x="1" y="1" width="398" height="268" rx="18" fill="url(#glow21)"/>
   <rect x="1" y="1" width="398" height="268" rx="18" fill="none" stroke="#36BCF7" stroke-width="2.2" stroke-linecap="round" class="run"/>
 <text x="28" y="50" font-size="19" font-weight="700" fill="#e6edf3" class="t">Vibe coder, full-stack by feel</text>
-<text x="28" y="84" font-size="13.5" fill="#9da7b3" class="t">I move fast, prototype by feel, and iterate</text>
-<text x="28" y="104" font-size="13.5" fill="#9da7b3" class="t">in the open. I build end-to-end (frontend,</text>
-<text x="28" y="124" font-size="13.5" fill="#9da7b3" class="t">backend, deployment), mostly in the</text>
-<text x="28" y="144" font-size="13.5" fill="#9da7b3" class="t">TypeScript / React / Cloudflare world.</text>
-<text x="28" y="184" font-size="13.5" fill="#9da7b3" class="t">Constantly hunting for the next weird</text>
-<text x="28" y="204" font-size="13.5" fill="#9da7b3" class="t">problem worth prototyping.</text>
+<text x="28" y="86" font-size="13.5" fill="#9da7b3" class="t">I move fast, prototype by feel, and iterate</text>
+<text x="28" y="106" font-size="13.5" fill="#9da7b3" class="t">in the open. I build end-to-end (frontend,</text>
+<text x="28" y="126" font-size="13.5" fill="#9da7b3" class="t">backend, deployment), mostly in the</text>
+<text x="28" y="146" font-size="13.5" fill="#9da7b3" class="t">TypeScript / React / Cloudflare world.</text>
+<text x="28" y="186" font-size="13.5" fill="#9da7b3" class="t">Constantly hunting for the next weird</text>
+<text x="28" y="206" font-size="13.5" fill="#9da7b3" class="t">problem worth prototyping.</text>
 
 </g>
 </svg>

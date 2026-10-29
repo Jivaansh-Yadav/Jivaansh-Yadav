@@ -23,14 +23,14 @@
   <rect x="1" y="1" width="398" height="268" rx="18" fill="url(#glow22)"/>
   <rect x="1" y="1" width="398" height="268" rx="18" fill="none" stroke="#bb9af7" stroke-width="2.2" stroke-linecap="round" class="run"/>
 <text x="28" y="50" font-size="19" font-weight="700" fill="#e6edf3" class="t">Quick facts</text>
-<text x="28" y="94" font-size="10.5" font-weight="600" letter-spacing="1.4" fill="#bb9af7" class="t">BUILDING</text>
-<text x="28" y="116" font-size="14" fill="#e6edf3" class="t">Lambda Prep</text>
-<text x="28" y="140" font-size="10.5" font-weight="600" letter-spacing="1.4" fill="#bb9af7" class="t">CORE STACK</text>
-<text x="28" y="162" font-size="14" fill="#e6edf3" class="t">TypeScript, React, Cloudflare</text>
-<text x="28" y="186" font-size="10.5" font-weight="600" letter-spacing="1.4" fill="#bb9af7" class="t">FOCUS</text>
-<text x="28" y="208" font-size="14" fill="#e6edf3" class="t">Resource hubs, web apps, tools</text>
-<text x="28" y="232" font-size="10.5" font-weight="600" letter-spacing="1.4" fill="#bb9af7" class="t">HOBBY</text>
-<text x="28" y="254" font-size="14" fill="#e6edf3" class="t">Weird side-quests</text>
+<text x="28" y="84" font-size="10.5" font-weight="600" letter-spacing="1.4" fill="#bb9af7" class="t">BUILDING</text>
+<text x="28" y="106" font-size="14" fill="#e6edf3" class="t">Lambda Prep</text>
+<text x="28" y="130" font-size="10.5" font-weight="600" letter-spacing="1.4" fill="#bb9af7" class="t">CORE STACK</text>
+<text x="28" y="152" font-size="14" fill="#e6edf3" class="t">TypeScript, React, Cloudflare</text>
+<text x="28" y="176" font-size="10.5" font-weight="600" letter-spacing="1.4" fill="#bb9af7" class="t">FOCUS</text>
+<text x="28" y="198" font-size="14" fill="#e6edf3" class="t">Resource hubs, web apps, tools</text>
+<text x="28" y="222" font-size="10.5" font-weight="600" letter-spacing="1.4" fill="#bb9af7" class="t">HOBBY</text>
+<text x="28" y="244" font-size="14" fill="#e6edf3" class="t">Weird side-quests</text>
 
 </g>
 </svg>

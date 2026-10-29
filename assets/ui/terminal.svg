@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="296" viewBox="0 0 600 296" role="img">
+<style>
+  .m{font-family:'Fira Code', 'SF Mono', Consolas, 'Liberation Mono', monospace} .t{font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif}
+  .cur{animation:blink 1s steps(1) infinite}
+  @keyframes blink{0%,50%{opacity:1}50.01%,100%{opacity:0}}
+  @keyframes ty0{0%,3.42%{width:0}5.70%,100%{width:72px}}.c0{animation:ty0 17.6s steps(8,end) infinite}
+@keyframes ty1{0%,7.98%{width:0}11.97%,100%{width:131px}}.c1{animation:ty1 17.6s steps(14,end) infinite}
+@keyframes ty2{0%,14.25%{width:0}18.52%,100%{width:139px}}.c2{animation:ty2 17.6s steps(15,end) infinite}
+@keyframes ty3{0%,20.80%{width:0}32.76%,100%{width:360px}}.c3{animation:ty3 17.6s steps(42,end) infinite}
+@keyframes ty4{0%,35.04%{width:0}37.89%,100%{width:98px}}.c4{animation:ty4 17.6s steps(10,end) infinite}
+@keyframes ty5{0%,40.17%{width:0}51.28%,100%{width:336px}}.c5{animation:ty5 17.6s steps(39,end) infinite}
+@keyframes ty6{0%,53.56%{width:0}56.98%,100%{width:114px}}.c6{animation:ty6 17.6s steps(12,end) infinite}
+@keyframes ty7{0%,59.26%{width:0}69.23%,100%{width:303px}}.c7{animation:ty7 17.6s steps(35,end) infinite}
+
+  @media (prefers-reduced-motion: reduce){.cur{animation:none}.c0{animation:none}.c1{animation:none}.c2{animation:none}.c3{animation:none}.c4{animation:none}.c5{animation:none}.c6{animation:none}.c7{animation:none}}
+</style>
+<defs>
+  <linearGradient id="tb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#171c26"/><stop offset="1" stop-color="#0b0e14"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="598" height="294" rx="18" fill="url(#tb)" stroke="#30363d" stroke-width="1.5"/>
+<path d="M19 1 H581 A18 18 0 0 1 599 19 V44 H1 V19 A18 18 0 0 1 19 1 Z" fill="#1c2230"/>
+<line x1="1" y1="44" x2="599" y2="44" stroke="#30363d"/>
+<circle cx="28" cy="23" r="6" fill="#ff5f57"/><circle cx="48" cy="23" r="6" fill="#febc2e"/><circle cx="68" cy="23" r="6" fill="#28c840"/>
+<text x="300.0" y="27" text-anchor="middle" font-size="12" class="m" fill="#8b949e">~/jivaansh — zsh</text>
+<clipPath id="cp0"><rect class="c0" x="28" y="68" width="72" height="22"/></clipPath>
+<g clip-path="url(#cp0)"><text x="28" y="84" font-size="13.5" class="m" fill="#9ece6a">$</text><text x="46" y="84" font-size="13.5" class="m" fill="#e6edf3">whoami</text></g>
+<clipPath id="cp1"><rect class="c1" x="28" y="92" width="131" height="22"/></clipPath>
+<g clip-path="url(#cp1)"><text x="46" y="108" font-size="13.5" class="m" fill="#36BCF7">jivaansh-yadav</text></g>
+<clipPath id="cp2"><rect class="c2" x="28" y="116" width="139" height="22"/></clipPath>
+<g clip-path="url(#cp2)"><text x="28" y="132" font-size="13.5" class="m" fill="#9ece6a">$</text><text x="46" y="132" font-size="13.5" class="m" fill="#e6edf3">cat stack.txt</text></g>
+<clipPath id="cp3"><rect class="c3" x="28" y="140" width="360" height="22"/></clipPath>
+<g clip-path="url(#cp3)"><text x="46" y="156" font-size="13.5" class="m" fill="#36BCF7">TypeScript · React · Cloudflare · Supabase</text></g>
+<clipPath id="cp4"><rect class="c4" x="28" y="164" width="98" height="22"/></clipPath>
+<g clip-path="url(#cp4)"><text x="28" y="180" font-size="13.5" class="m" fill="#9ece6a">$</text><text x="46" y="180" font-size="13.5" class="m" fill="#e6edf3">./now.sh</text></g>
+<clipPath id="cp5"><rect class="c5" x="28" y="188" width="336" height="22"/></clipPath>
+<g clip-path="url(#cp5)"><text x="46" y="204" font-size="13.5" class="m" fill="#36BCF7">building Lambda Prep for CISCE students</text></g>
+<clipPath id="cp6"><rect class="c6" x="28" y="212" width="114" height="22"/></clipPath>
+<g clip-path="url(#cp6)"><text x="28" y="228" font-size="13.5" class="m" fill="#9ece6a">$</text><text x="46" y="228" font-size="13.5" class="m" fill="#e6edf3">echo $VIBE</text></g>
+<clipPath id="cp7"><rect class="c7" x="28" y="236" width="303" height="22"/></clipPath>
+<g clip-path="url(#cp7)"><text x="46" y="252" font-size="13.5" class="m" fill="#36BCF7">full-stack, end-to-end, side-quests</text></g>
+<text x="28" y="276" font-size="13.5" class="m" fill="#9ece6a">$</text><rect class="cur" x="46" y="263" width="8" height="16" fill="#36BCF7"/>
+</svg>

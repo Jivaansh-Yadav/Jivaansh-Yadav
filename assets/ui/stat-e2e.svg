@@ -23,6 +23,6 @@
   <rect x="1" y="1" width="188" height="102" rx="18" fill="url(#glow13)"/>
   <rect x="1" y="1" width="188" height="102" rx="18" fill="none" stroke="#36BCF7" stroke-width="2.2" stroke-linecap="round" class="run"/>
 <text x="95" y="52" text-anchor="middle" font-size="34" font-weight="800" fill="#36BCF7" class="t">E2E</text>
-<text x="95" y="80" text-anchor="middle" font-size="12" font-weight="600" letter-spacing="1.6" fill="#9da7b3" class="t">FRONTEND → DEPLOY</text>
+<text x="95" y="80" text-anchor="middle" font-size="9.5" font-weight="600" letter-spacing="1.6" fill="#9da7b3" class="t">FRONTEND → DEPLOY</text>
 </g>
 </svg>

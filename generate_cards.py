@@ -30,8 +30,8 @@ import math
 def perim(w, h, r=18):
     return 2*((w-2-2*r)+(h-2-2*r)) + 2*math.pi*r
 
-def style(accent, w, h):
-    P = perim(w, h)
+def style(accent, w, h, r=18):
+    P = perim(w, h, r)
     return f"""<style>
   .t{{font-family:{SANS};}}
   .m{{font-family:{MONO};}}
@@ -44,9 +44,9 @@ def style(accent, w, h):
   @media (prefers-reduced-motion: reduce){{.fade,.run,.pulse{{animation:none}}}}
 </style>"""
 
-def frame(w, h, accent, body, gid):
+def frame(w, h, accent, body, gid, r=18):
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img">
-{style(accent, w, h)}
+{style(accent, w, h, r)}
 <defs>
   <linearGradient id="bg{gid}" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#171c26"/><stop offset="1" stop-color="#0d1117"/>
@@ -56,9 +56,9 @@ def frame(w, h, accent, body, gid):
   </radialGradient>
 </defs>
 <g class="fade">
-  <rect x="1" y="1" width="{w-2}" height="{h-2}" rx="18" fill="url(#bg{gid})" stroke="#30363d" stroke-width="1.5"/>
-  <rect x="1" y="1" width="{w-2}" height="{h-2}" rx="18" fill="url(#glow{gid})"/>
-  <rect x="1" y="1" width="{w-2}" height="{h-2}" rx="18" fill="none" stroke="{accent}" stroke-width="2.2" stroke-linecap="round" class="run"/>
+  <rect x="1" y="1" width="{w-2}" height="{h-2}" rx="{r}" fill="url(#bg{gid})" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="1" y="1" width="{w-2}" height="{h-2}" rx="{r}" fill="url(#glow{gid})"/>
+  <rect x="1" y="1" width="{w-2}" height="{h-2}" rx="{r}" fill="none" stroke="{accent}" stroke-width="2.2" stroke-linecap="round" class="run"/>
 {body}
 </g>
 </svg>"""
@@ -165,3 +165,120 @@ label("lbl-backend", "BACKEND & INFRA", GREEN, 32)
 label("lbl-mobile", "MOBILE", AMBER, 33)
 label("lbl-languages", "LANGUAGES", PURPLE, 34)
 label("lbl-tools", "TOOLS", RED, 35)
+
+
+# ───────────────────────── v2 aesthetics ─────────────────────────
+
+# animated section headings (pill with running border)
+def heading(fn, text, accent, gid):
+    tw = len(text) * 14.5
+    w = int(tw + 120); h = 58
+    cx = w / 2
+    b = f'''<path d="M30 29 l7 -7 l7 7 l-7 7 z" fill="{accent}"/>
+<text x="{cx:.0f}" y="37" text-anchor="middle" font-size="23" font-weight="800" letter-spacing="0.5" fill="#e6edf3" class="t">{esc(text)}</text>
+<path d="M{w-44} 29 l7 -7 l7 7 l-7 7 z" fill="{accent}"/>'''
+    open(f"assets/ui/{fn}.svg", "w").write(frame(w, h, accent, b, gid, r=29))
+    print("heading", fn, w)
+
+heading("h-about", "About Me", BLUE, 41)
+heading("h-projects", "Projects", GREEN, 42)
+heading("h-stack", "Tech Stack", PURPLE, 43)
+heading("h-stats", "GitHub Dashboard", AMBER, 44)
+heading("h-contact", "Let's Connect", RED, 45)
+
+# nav pills
+def navpill(fn, text, accent):
+    w, h = 108, 36
+    s_ = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img">
+<style>.t{{font-family:{SANS}}} .p{{animation:pp 3.2s ease-in-out infinite}} @keyframes pp{{0%,100%{{opacity:1}}50%{{opacity:.4}}}} @media (prefers-reduced-motion: reduce){{.p{{animation:none}}}}</style>
+<rect x="1" y="1" width="{w-2}" height="{h-2}" rx="18" fill="#0d1117" stroke="{accent}" stroke-opacity="0.55" stroke-width="1.5"/>
+<circle cx="20" cy="18" r="3.2" fill="{accent}" class="p"/>
+<text x="64" y="22.5" text-anchor="middle" font-size="11.5" font-weight="700" letter-spacing="1.2" fill="#e6edf3" class="t">{esc(text)}</text>
+</svg>"""
+    open(f"assets/ui/{fn}.svg", "w").write(s_)
+
+navpill("nav-about", "ABOUT", BLUE)
+navpill("nav-projects", "PROJECTS", GREEN)
+navpill("nav-stack", "STACK", PURPLE)
+navpill("nav-stats", "STATS", AMBER)
+navpill("nav-contact", "CONTACT", RED)
+
+# animated divider
+open("assets/ui/divider.svg", "w").write(f"""<svg xmlns="http://www.w3.org/2000/svg" width="800" height="12" viewBox="0 0 800 12" role="img">
+<style>
+  .d{{animation:slide 5s ease-in-out infinite alternate}}
+  @keyframes slide{{from{{transform:translateX(0)}}to{{transform:translateX(560px)}}}}
+  @media (prefers-reduced-motion: reduce){{.d{{animation:none}}}}
+</style>
+<defs>
+  <linearGradient id="g" x1="0" x2="1">
+    <stop offset="0" stop-color="{BLUE}" stop-opacity="0"/><stop offset="0.5" stop-color="{BLUE}" stop-opacity="0.6"/><stop offset="1" stop-color="{PURPLE}" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="h" x1="0" x2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect x="0" y="5" width="800" height="2" rx="1" fill="url(#g)"/>
+<rect class="d" x="60" y="4.5" width="180" height="3" rx="1.5" fill="url(#h)"/>
+</svg>""")
+
+# terminal card with typing animation
+def terminal():
+    w, h = 600, 296
+    lines = [("cmd", "whoami"), ("out", "jivaansh-yadav"),
+             ("cmd", "cat stack.txt"), ("out", "TypeScript · React · Cloudflare · Supabase"),
+             ("cmd", "./now.sh"), ("out", "building Lambda Prep for CISCE students"),
+             ("cmd", "echo $VIBE"), ("out", "full-stack, end-to-end, side-quests")]
+    CW = 8.2            # monospace char width estimate at 13.5px
+    spd, gap, hold = 0.05, 0.4, 5.0
+    t = 0.6
+    sched = []
+    for kind, txt in lines:
+        n = len(txt) + (2 if kind == "cmd" else 0)
+        dur = max(0.25, n * spd)
+        sched.append((t, dur, n)); t += dur + gap
+    T = t + hold
+    css, body = "", ""
+    y0 = 84
+    for i, ((kind, txt), (st, dur, n)) in enumerate(zip(lines, sched)):
+        y = y0 + i * 24
+        pw = n * CW + 6
+        s_pct, e_pct = st / T * 100, (st + dur) / T * 100
+        css += (f"@keyframes ty{i}{{0%,{s_pct:.2f}%{{width:0}}{e_pct:.2f}%,100%{{width:{pw:.0f}px}}}}"
+                f".c{i}{{animation:ty{i} {T:.1f}s steps({n},end) infinite}}\n")
+        body += f'<clipPath id="cp{i}"><rect class="c{i}" x="28" y="{y-16}" width="{pw:.0f}" height="22"/></clipPath>\n'
+        if kind == "cmd":
+            body += (f'<g clip-path="url(#cp{i})"><text x="28" y="{y}" font-size="13.5" class="m" fill="{GREEN}">$</text>'
+                     f'<text x="46" y="{y}" font-size="13.5" class="m" fill="#e6edf3">{esc(txt)}</text></g>\n')
+        else:
+            body += f'<g clip-path="url(#cp{i})"><text x="46" y="{y}" font-size="13.5" class="m" fill="{BLUE}">{esc(txt)}</text></g>\n'
+    cur_y = y0 + len(lines) * 24
+    body += f'<text x="28" y="{cur_y}" font-size="13.5" class="m" fill="{GREEN}">$</text><rect class="cur" x="46" y="{cur_y-13}" width="8" height="16" fill="{BLUE}"/>'
+    svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img">
+<style>
+  .m{{font-family:{MONO}}} .t{{font-family:{SANS}}}
+  .cur{{animation:blink 1s steps(1) infinite}}
+  @keyframes blink{{0%,50%{{opacity:1}}50.01%,100%{{opacity:0}}}}
+  {css}
+  @media (prefers-reduced-motion: reduce){{.cur{{animation:none}}{''.join(f'.c{i}{{animation:none}}' for i in range(len(lines)))}}}
+</style>
+<defs>
+  <linearGradient id="tb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#171c26"/><stop offset="1" stop-color="#0b0e14"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="{w-2}" height="{h-2}" rx="18" fill="url(#tb)" stroke="#30363d" stroke-width="1.5"/>
+<path d="M19 1 H{w-19} A18 18 0 0 1 {w-1} 19 V44 H1 V19 A18 18 0 0 1 19 1 Z" fill="#1c2230"/>
+<line x1="1" y1="44" x2="{w-1}" y2="44" stroke="#30363d"/>
+<circle cx="28" cy="23" r="6" fill="#ff5f57"/><circle cx="48" cy="23" r="6" fill="#febc2e"/><circle cx="68" cy="23" r="6" fill="#28c840"/>
+<text x="{w/2}" y="27" text-anchor="middle" font-size="12" class="m" fill="#8b949e">~/jivaansh — zsh</text>
+{body}
+</svg>"""
+    open("assets/ui/terminal.svg", "w").write(svg)
+
+terminal()
+
+# contact CTA card
+b = f'''<text x="300" y="52" text-anchor="middle" font-size="26" font-weight="800" fill="#e6edf3" class="t">Let's build something weird.</text>
+<text x="300" y="80" text-anchor="middle" font-size="13.5" fill="#9da7b3" class="t">Got a weird idea, a collab, or a project worth prototyping?</text>
+<rect x="238" y="98" width="124" height="32" rx="16" fill="{BLUE}"/>
+<text x="300" y="119" text-anchor="middle" font-size="13.5" font-weight="800" fill="#0d1117" class="t">Say hi  →</text>'''
+open("assets/ui/cta.svg", "w").write(frame(600, 150, BLUE, b, 51))

@@ -1,6 +1,6 @@
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f111a,50:1f6feb,100:36BCF7&height=220&section=header&text=Jivaansh%20Yadav&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Vibe%20Coder&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f111a,50:1f6feb,100:36BCF7&height=220&section=header&text=Jivaansh%20Yadav&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Vibe%20Coder&descSize=20&descAlignY=60&animation=twinkling" width="100%" alt="Header banner" />
 </p>
 
 <p align="center">
@@ -10,18 +10,19 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jivaansh-Yadav&style=flat-square&color=orange&label=Profile+views" alt="Profile views" width="20%"/>
-  <img src="https://img.shields.io/github/followers/Jivaansh-Yadav?style=flat-square&logo=github&color=36BCF7&labelColor=161b22" alt="Followers" width="20%"/>
-  <img src="https://img.shields.io/badge/Vibe_Coder-Full_Stack-f7768e?style=flat-square&logo=googlegemini&logoColor=white&labelColor=161b22" alt="Vibe Coder" width="30%"/>
-  <img src="https://img.shields.io/badge/License-MIT-9ece6a?style=flat-square&labelColor=161b22" alt="MIT" width="20%"/>
+  <img src="https://komarev.com/ghpvc/?username=Jivaansh-Yadav&style=flat-square&color=orange&label=Profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Jivaansh-Yadav?style=flat-square&logo=github&color=36BCF7&labelColor=161b22" alt="Followers" />
+  <img src="https://img.shields.io/badge/Vibe_Coder-Full_Stack-f7768e?style=flat-square&logo=googlegemini&logoColor=white&labelColor=161b22" alt="Vibe Coder" />
+  <img src="https://img.shields.io/badge/License-MIT-9ece6a?style=flat-square&labelColor=161b22" alt="MIT" />
 </p>
 
+<!-- nav -->
 <p align="center">
-  <a href="#about"><b>About</b></a> &nbsp;•&nbsp;
-  <a href="#projects"><b>Projects</b></a> &nbsp;•&nbsp;
-  <a href="#stack"><b>Stack</b></a> &nbsp;•&nbsp;
-  <a href="#stats"><b>Stats</b></a> &nbsp;•&nbsp;
-  <a href="#contact"><b>Contact</b></a>
+  <a href="#about"><img src="assets/ui/nav-about.svg" width="108" alt="About" /></a>
+  <a href="#projects"><img src="assets/ui/nav-projects.svg" width="108" alt="Projects" /></a>
+  <a href="#stack"><img src="assets/ui/nav-stack.svg" width="108" alt="Stack" /></a>
+  <a href="#stats"><img src="assets/ui/nav-stats.svg" width="108" alt="Stats" /></a>
+  <a href="#contact"><img src="assets/ui/nav-contact.svg" width="108" alt="Contact" /></a>
 </p>
 
 <!-- ═══════════════════ AT A GLANCE ═══════════════════ -->
@@ -32,16 +33,24 @@
   <img src="assets/ui/stat-core.svg" width="190" alt="TypeScript, React and Cloudflare core" />
 </p>
 
+<p align="center"><img src="assets/ui/divider.svg" width="720" alt="" /></p>
+
 <!-- ═══════════════════ ABOUT ═══════════════════ -->
-<h2 align="center" id="about">About Me</h2>
+<h2 align="center" id="about"><img src="assets/ui/h-about.svg" width="236" alt="About Me" /></h2>
 
 <p align="center">
   <img src="assets/ui/about-bio.svg" width="400" alt="Vibe coder, full-stack by feel" />
   <img src="assets/ui/about-facts.svg" width="400" alt="Quick facts" />
 </p>
 
+<p align="center">
+  <img src="assets/ui/terminal.svg" width="600" alt="Terminal: whoami, stack, what I'm building now" />
+</p>
+
+<p align="center"><img src="assets/ui/divider.svg" width="720" alt="" /></p>
+
 <!-- ═══════════════════ PROJECTS ═══════════════════ -->
-<h2 align="center" id="projects">Projects</h2>
+<h2 align="center" id="projects"><img src="assets/ui/h-projects.svg" width="236" alt="Projects" /></h2>
 
 <h3 align="center">🔨 Currently Building</h3>
 
@@ -64,8 +73,10 @@
   <a href="https://github.com/Jivaansh-Yadav?tab=repositories"><img src="assets/cards/more.svg" width="400" alt="And much more in the works" /></a>
 </p>
 
+<p align="center"><img src="assets/ui/divider.svg" width="720" alt="" /></p>
+
 <!-- ═══════════════════ STACK ═══════════════════ -->
-<h2 align="center" id="stack">Tech Stack</h2>
+<h2 align="center" id="stack"><img src="assets/ui/h-stack.svg" width="265" alt="Tech Stack" /></h2>
 
 <p align="center">
   <img src="assets/ui/lbl-frontend.svg" width="170" alt="Frontend" /><br />
@@ -88,43 +99,42 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tool icons" />
 </p>
 
+<p align="center"><img src="assets/ui/divider.svg" width="720" alt="" /></p>
+
 <!-- ═══════════════════ STATS ═══════════════════ -->
-<h2 align="center" id="stats">GitHub Dashboard</h2>
+<h2 align="center" id="stats"><img src="assets/ui/h-stats.svg" width="352" alt="GitHub Dashboard" /></h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jivaansh-Yadav&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&rank_icon=github" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jivaansh-Yadav&layout=compact&theme=tokyonight&hide_border=true&border_radius=18" height="170" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Jivaansh-Yadav&rank_icon=github&custom_title=Jivaansh%27s%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=18" alt="GitHub stats" width="39%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Jivaansh-Yadav&layout=donut-vertical&langs_count=6&theme=tokyonight&hide_border=true&border_radius=18" width="30%" alt="Top languages" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=Jivaansh-Yadav&theme=tokyonight&hide_border=true&border_radius=18" alt="GitHub streak" width="50%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jivaansh-Yadav&theme=tokyonight&hide_border=true&border_radius=18" alt="GitHub streak" />
+  <img src="https://raw.githubusercontent.com/Jivaansh-Yadav/Jivaansh-Yadav/refs/heads/main/github-metrics.svg" alt="GitHub Metrics" width="60%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jivaansh-Yadav/Jivaansh-Yadav/refs/heads/main/github-metrics.svg" alt="GitHub Metrics" width="90%" />
-</p>
-
-<details>
-  <summary><b>🏆 Trophies</b></summary>
+<h3 align="center">🏆 Trophies</h3>
   <br />
   <p align="center">
-    <img src="https://github-trophies.devomb.com/?username=Jivaansh-Yadav&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
+    <img src="https://github-trophies.devomb.com/?username=Jivaansh-Yadav&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" width="60%"/>
   </p>
-</details>
 
-<details open>
-  <summary><b>⏳ Activity over time</b></summary>
+<h3 align="center">⏳ Activity over time</h3>
   <br />
   <p align="center">
-    <img src="https://github-readme-activity-graph-self-chi.vercel.app/graph?username=Jivaansh-Yadav&theme=tokyo-night&hide_border=true" width="100%" alt="Activity graph" />
+    <img src="https://github-readme-activity-graph-self-chi.vercel.app/graph?username=Jivaansh-Yadav&theme=tokyo-night&hide_border=true&radius=18" width="90%" alt="Activity graph" />
   </p>
-</details>
+
+
+<p align="center"><img src="assets/ui/divider.svg" width="720" alt="" /></p>
 
 <!-- ═══════════════════ CONTACT ═══════════════════ -->
-<h2 align="center" id="contact">Let's Connect</h2>
+<h2 align="center" id="contact"><img src="assets/ui/h-contact.svg" width="308" alt="Let's Connect" /></h2>
 
 <p align="center">
-  Got a weird idea, a collab, or a project worth prototyping? Say hi.
+  <a href="mailto:jivaanshyadav@gmail.com"><img src="assets/ui/cta.svg" width="600" alt="Let's build something weird. Say hi." /></a>
 </p>
 
 <p align="center">

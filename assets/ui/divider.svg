@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="12" viewBox="0 0 800 12" role="img">
+<style>
+  .d{animation:slide 5s ease-in-out infinite alternate}
+  @keyframes slide{from{transform:translateX(0)}to{transform:translateX(560px)}}
+  @media (prefers-reduced-motion: reduce){.d{animation:none}}
+</style>
+<defs>
+  <linearGradient id="g" x1="0" x2="1">
+    <stop offset="0" stop-color="#36BCF7" stop-opacity="0"/><stop offset="0.5" stop-color="#36BCF7" stop-opacity="0.6"/><stop offset="1" stop-color="#bb9af7" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="h" x1="0" x2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect x="0" y="5" width="800" height="2" rx="1" fill="url(#g)"/>
+<rect class="d" x="60" y="4.5" width="180" height="3" rx="1.5" fill="url(#h)"/>
+</svg>
