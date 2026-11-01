@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="40" viewBox="0 0 400 40" role="img">
+<style>
+  .t{font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;}
+  .pulse{animation:pulse 1.8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+  @keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(1.6)}}
+  @media (prefers-reduced-motion: reduce){.pulse{animation:none}}
+</style>
+<defs>
+  <linearGradient id="sb-krishilink" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#171c26"/><stop offset="1" stop-color="#0d1117"/>
+  </linearGradient>
+</defs>
+<rect x="1" y="1" width="398" height="38" rx="13" fill="url(#sb-krishilink)" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="28" cy="20" r="3.5" fill="#9ece6a" class="pulse"/>
+<text x="40" y="24" font-size="9.5" font-weight="700" letter-spacing="1.4" fill="#9ece6a" class="t">LIVE</text>
+<text x="100" y="24.5" font-size="12.5" font-weight="600" fill="#e6edf3" class="t">krishilink.pages.dev</text>
+<text x="372" y="25" font-size="13" font-weight="700" fill="#9ece6a" text-anchor="end" class="t">↗</text>
+</svg>
