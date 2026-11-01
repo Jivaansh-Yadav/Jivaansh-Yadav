@@ -55,33 +55,28 @@
 <h3 align="center">🔨 Currently Building</h3>
 
 <p align="center">
-  <a href="https://github.com/Jivaansh-Yadav/lambda-prep-test"><img src="assets/cards/lambda-prep.svg" width="560" alt="Lambda Prep — a resource hub for CISCE students; opens the repository" /></a>
+  <a href="https://github.com/Jivaansh-Yadav/lambda-prep-test"><img src="assets/cards/lambda-prep.svg" width="400" alt="Lambda Prep — a resource hub for CISCE students; opens the repository" /></a>
 </p>
 
 <h3 align="center">✅ Shipped</h3>
 
 <p align="center">
-  <a href="https://github.com/Jivaansh-Yadav/KrishiLink"><img src="assets/cards/krishilink.svg" width="560" alt="KrishiLink — a direct market for Indian farmers; opens the repository" /></a><br />
-  <a href="https://krishilink.pages.dev"><img src="assets/cards/krishilink-live.svg" width="560" alt="Open the live KrishiLink site" /></a>
+  <a href="https://github.com/Jivaansh-Yadav/KrishiLink"><img src="assets/cards/krishilink.svg" width="400" alt="KrishiLink — a direct market for Indian farmers; opens the repository" /></a>
+  <a href="https://github.com/Jivaansh-Yadav/SpatialInk"><img src="assets/cards/spatialink.svg" width="400" alt="Spatial Ink — air drawing with a webcam; opens the repository" /></a><br />
+  <a href="https://krishilink.pages.dev"><img src="assets/cards/krishilink-live.svg" width="400" alt="Open the live KrishiLink site" /></a>
+  <a href="https://spatial-ink.vercel.app"><img src="assets/cards/spatialink-live.svg" width="400" alt="Open the live Spatial Ink site" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Jivaansh-Yadav/SpatialInk"><img src="assets/cards/spatialink.svg" width="560" alt="Spatial Ink — air drawing with a webcam; opens the repository" /></a><br />
-  <a href="https://spatial-ink.vercel.app"><img src="assets/cards/spatialink-live.svg" width="560" alt="Open the live Spatial Ink site" /></a>
+  <a href="https://github.com/Jivaansh-Yadav/pookoo-run"><img src="assets/cards/pookoo-run.svg" width="400" alt="Pookoo Run — an endless runner through a procedural forest; opens the repository" /></a>
+  <a href="https://github.com/Jivaansh-Yadav/icse-resources"><img src="assets/cards/icse-resources.svg" width="400" alt="ICSE Resources — a resource portal for ICSE Class 10; opens the repository" /></a><br />
+  <a href="https://pookoo-run.vercel.app"><img src="assets/cards/pookoo-run-live.svg" width="400" alt="Open the live Pookoo Run site" /></a>
+  <a href="https://icse-resources.pages.dev"><img src="assets/cards/icse-resources-live.svg" width="400" alt="Open the live ICSE Resources site" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Jivaansh-Yadav/pookoo-run"><img src="assets/cards/pookoo-run.svg" width="560" alt="Pookoo Run — an endless runner through a procedural forest; opens the repository" /></a><br />
-  <a href="https://pookoo-run.vercel.app"><img src="assets/cards/pookoo-run-live.svg" width="560" alt="Open the live Pookoo Run site" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Jivaansh-Yadav/icse-resources"><img src="assets/cards/icse-resources.svg" width="560" alt="ICSE Resources — a resource portal for ICSE Class 10; opens the repository" /></a><br />
-  <a href="https://icse-resources.pages.dev"><img src="assets/cards/icse-resources-live.svg" width="560" alt="Open the live ICSE Resources site" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Jivaansh-Yadav/MeteoNerd"><img src="assets/cards/meteonerd.svg" width="560" alt="MeteoNerd — every weather variable Open-Meteo publishes; opens the repository" /></a><br />
-  <a href="https://meteonerd.pages.dev"><img src="assets/cards/meteonerd-live.svg" width="560" alt="Open the live MeteoNerd site" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Jivaansh-Yadav?tab=repositories"><img src="assets/cards/more.svg" width="560" alt="And much more in the works — browse all repositories" /></a>
+  <a href="https://github.com/Jivaansh-Yadav/MeteoNerd"><img src="assets/cards/meteonerd.svg" width="400" alt="MeteoNerd — every weather variable Open-Meteo publishes; opens the repository" /></a>
+  <a href="https://github.com/Jivaansh-Yadav?tab=repositories"><img src="assets/cards/more.svg" width="400" alt="And much more in the works — browse all repositories" /></a><br />
+  <a href="https://meteonerd.pages.dev"><img src="assets/cards/meteonerd-live.svg" width="400" alt="Open the live MeteoNerd site" /></a>
+  <img src="assets/cards/spacer.svg" width="400" alt="" />
 </p>
 
 <p align="center"><img src="assets/ui/divider.svg" width="720" alt="" /></p>
