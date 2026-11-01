@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://github.com/Jivaansh-Yadav/KrishiLink"><img src="assets/cards/krishilink.svg" width="400" alt="KrishiLink" /></a>
-  <a href="https://github.com/Aman-Gautam67/Flow-Intel"><img src="assets/cards/flowintel.svg" width="400" alt="FlowIntel" /></a>
+  <a href="https://github.com/Jivaansh-Yadav/SpatialInk"><img src="assets/cards/spatialink.svg" width="400" alt="Spatial Ink" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/Jivaansh-Yadav/pookoo-run"><img src="assets/cards/pookoo-run.svg" width="400" alt="Pookoo Run" /></a>
