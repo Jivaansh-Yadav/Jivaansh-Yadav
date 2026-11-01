@@ -1,1 +1,157 @@
-{"name":"README.md","path":"README.md","sha":"35ddf18fda649aaa25e0afb044518d78bf7de66c","size":9946,"url":"https://api.github.com/repos/Jivaansh-Yadav/Jivaansh-Yadav/contents/README.md?ref=270a754","html_url":"https://github.com/Jivaansh-Yadav/Jivaansh-Yadav/blob/270a754/README.md","git_url":"https://api.github.com/repos/Jivaansh-Yadav/Jivaansh-Yadav/git/blobs/35ddf18fda649aaa25e0afb044518d78bf7de66c","download_url":"https://raw.githubusercontent.com/Jivaansh-Yadav/Jivaansh-Yadav/270a754/README.md","type":"file","content":"PCEtLSDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDi\nlZDilZDilZDilZDilZDilZAgSEVBREVSIOKVkOKVkOKVkOKVkOKVkOKVkOKV\nkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkCAtLT4KPHAg\nYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9Imh0dHBzOi8vY2Fwc3VsZS1y\nZW5kZXIudmVyY2VsLmFwcC9hcGk/dHlwZT1ibHVyJmNvbG9yPTA6MGYxMTFh\nLDUwOjFmNmZlYiwxMDA6MzZCQ0Y3JmhlaWdodD0yMjAmc2VjdGlvbj1oZWFk\nZXImdGV4dD1KaXZhYW5zaCUyMFlhZGF2JmZvbnRTaXplPTUyJmZvbnRDb2xv\ncj1mZmZmZmYmZm9udEFsaWduWT0zOCZkZXNjPUZ1bGwtU3RhY2slMjBWaWJl\nJTIwQ29kZXImZGVzY1NpemU9MjAmZGVzY0FsaWduWT02MCZhbmltYXRpb249\ndHdpbmtsaW5nIiB3aWR0aD0iMTAwJSIgYWx0PSJIZWFkZXIgYmFubmVyIiAv\nPgo8L3A+Cgo8cCBhbGlnbj0iY2VudGVyIj4KICA8YSBocmVmPSJodHRwczov\nL2dpdGh1Yi5jb20vSml2YWFuc2gtWWFkYXYiPgogICAgPGltZyBzcmM9Imh0\ndHBzOi8vcmVhZG1lLXR5cGluZy1zdmcuZGVtb2xhYi5jb20/Zm9udD1KZXRC\ncmFpbnMrTW9ubyZ3ZWlnaHQ9NTAwJnNpemU9MjImZHVyYXRpb249MzUwMCZw\nYXVzZT0xMDAwJmNvbG9yPTM2QkNGNyZjZW50ZXI9dHJ1ZSZ2Q2VudGVyPXRy\ndWUmd2lkdGg9NjUwJmxpbmVzPUhpK3RoZXJlJTJDK0knbStKaXZhYW5zaDtG\ndWxsLVN0YWNrK1ZpYmUrQ29kZXI7RnJvbnRlbmQrJUUyJTg2JTkyK0JhY2tl\nbmQrJUUyJTg2JTkyK0RlcGxveTtDdXJyZW50bHkrb2JzZXNzZWQrd2l0aCt3\nZWlyZCtzaWRlLXF1ZXN0cyIgYWx0PSJUeXBpbmcgU1ZHIiAvPgogIDwvYT4K\nPC9wPgoKPHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9Imh0dHBzOi8v\na29tYXJldi5jb20vZ2hwdmMvP3VzZXJuYW1lPUppdmFhbnNoLVlhZGF2JnN0\neWxlPWZsYXQtc3F1YXJlJmNvbG9yPW9yYW5nZSZsYWJlbD1Qcm9maWxlK3Zp\nZXdzIiBhbHQ9IlByb2ZpbGUgdmlld3MiIC8+CiAgPGltZyBzcmM9Imh0dHBz\nOi8vaW1nLnNoaWVsZHMuaW8vZ2l0aHViL2ZvbGxvd2Vycy9KaXZhYW5zaC1Z\nYWRhdj9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPWdpdGh1YiZjb2xvcj0zNkJD\nRjcmbGFiZWxDb2xvcj0xNjFiMjIiIGFsdD0iRm9sbG93ZXJzIiAvPgogIDxp\nbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1ZpYmVfQ29k\nZXItRnVsbF9TdGFjay1mNzc2OGU/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1n\nb29nbGVnZW1pbmkmbG9nb0NvbG9yPXdoaXRlJmxhYmVsQ29sb3I9MTYxYjIy\nIiBhbHQ9IlZpYmUgQ29kZXIiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1n\nLnNoaWVsZHMuaW8vYmFkZ2UvTGljZW5zZS1NSVQtOWVjZTZhP3N0eWxlPWZs\nYXQtc3F1YXJlJmxhYmVsQ29sb3I9MTYxYjIyIiBhbHQ9Ik1JVCIgLz4KPC9w\nPgoKPCEtLSBuYXYgLS0+CjxwIGFsaWduPSJjZW50ZXIiPgogIDxhIGhyZWY9\nIiNhYm91dCI+PGltZyBzcmM9ImFzc2V0cy91aS9uYXYtYWJvdXQuc3ZnIiB3\naWR0aD0iMTA4IiBhbHQ9IkFib3V0IiAvPjwvYT4KICA8YSBocmVmPSIjcHJv\namVjdHMiPjxpbWcgc3JjPSJhc3NldHMvdWkvbmF2LXByb2plY3RzLnN2ZyIg\nd2lkdGg9IjEwOCIgYWx0PSJQcm9qZWN0cyIgLz48L2E+CiAgPGEgaHJlZj0i\nI3N0YWNrIj48aW1nIHNyYz0iYXNzZXRzL3VpL25hdi1zdGFjay5zdmciIHdp\nZHRoPSIxMDgiIGFsdD0iU3RhY2siIC8+PC9hPgogIDxhIGhyZWY9IiNzdGF0\ncyI+PGltZyBzcmM9ImFzc2V0cy91aS9uYXYtc3RhdHMuc3ZnIiB3aWR0aD0i\nMTA4IiBhbHQ9IlN0YXRzIiAvPjwvYT4KICA8YSBocmVmPSIjY29udGFjdCI+\nPGltZyBzcmM9ImFzc2V0cy91aS9uYXYtY29udGFjdC5zdmciIHdpZHRoPSIx\nMDgiIGFsdD0iQ29udGFjdCIgLz48L2E+CjwvcD4KCjwhLS0g4pWQ4pWQ4pWQ\n4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ\n4pWQIEFUIEEgR0xBTkNFIOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKV\nkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkCAtLT4KPHAgYWxpZ249ImNl\nbnRlciI+CiAgPGltZyBzcmM9ImFzc2V0cy91aS9zdGF0LXNoaXBwZWQuc3Zn\nIiB3aWR0aD0iMTkwIiBhbHQ9IjUgcHJvamVjdHMgc2hpcHBlZCIgLz4KICA8\naW1nIHNyYz0iYXNzZXRzL3VpL3N0YXQtYnVpbGRpbmcuc3ZnIiB3aWR0aD0i\nMTkwIiBhbHQ9IjEgY3VycmVudGx5IGJ1aWxkaW5nIiAvPgogIDxpbWcgc3Jj\nPSJhc3NldHMvdWkvc3RhdC1lMmUuc3ZnIiB3aWR0aD0iMTkwIiBhbHQ9IkVu\nZCB0byBlbmQ6IGZyb250ZW5kIHRvIGRlcGxveSIgLz4KICA8aW1nIHNyYz0i\nYXNzZXRzL3VpL3N0YXQtY29yZS5zdmciIHdpZHRoPSIxOTAiIGFsdD0iVHlw\nZVNjcmlwdCwgUmVhY3QgYW5kIENsb3VkZmxhcmUgY29yZSIgLz4KPC9wPgoK\nPHAgYWxpZ249ImNlbnRlciI+PGltZyBzcmM9ImFzc2V0cy91aS9kaXZpZGVy\nLnN2ZyIgd2lkdGg9IjcyMCIgYWx0PSIiIC8+PC9wPgoKPCEtLSDilZDilZDi\nlZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDi\nlZDilZAgQUJPVVQg4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ\n4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQIC0tPgo8aDIgYWxpZ249ImNlbnRl\nciIgaWQ9ImFib3V0Ij48aW1nIHNyYz0iYXNzZXRzL3VpL2gtYWJvdXQuc3Zn\nIiB3aWR0aD0iMjM2IiBhbHQ9IkFib3V0IE1lIiAvPjwvaDI+Cgo8cCBhbGln\nbj0iY2VudGVyIj4KICA8aW1nIHNyYz0iYXNzZXRzL3VpL2Fib3V0LWJpby5z\ndmciIHdpZHRoPSI0MDAiIGFsdD0iVmliZSBjb2RlciwgZnVsbC1zdGFjayBi\neSBmZWVsIiAvPgogIDxpbWcgc3JjPSJhc3NldHMvdWkvYWJvdXQtZmFjdHMu\nc3ZnIiB3aWR0aD0iNDAwIiBhbHQ9IlF1aWNrIGZhY3RzIiAvPgo8L3A+Cgo8\ncCBhbGlnbj0iY2VudGVyIj4KICA8aW1nIHNyYz0iYXNzZXRzL3VpL3Rlcm1p\nbmFsLnN2ZyIgd2lkdGg9IjYwMCIgYWx0PSJUZXJtaW5hbDogd2hvYW1pLCBz\ndGFjaywgd2hhdCBJJ20gYnVpbGRpbmcgbm93IiAvPgo8L3A+Cgo8cCBhbGln\nbj0iY2VudGVyIj48aW1nIHNyYz0iYXNzZXRzL3VpL2RpdmlkZXIuc3ZnIiB3\naWR0aD0iNzIwIiBhbHQ9IiIgLz48L3A+Cgo8IS0tIOKVkOKVkOKVkOKVkOKV\nkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkCBQ\nUk9KRUNUUyDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDi\nlZDilZDilZDilZDilZDilZDilZAgLS0+CjxoMiBhbGlnbj0iY2VudGVyIiBp\nZD0icHJvamVjdHMiPjxpbWcgc3JjPSJhc3NldHMvdWkvaC1wcm9qZWN0cy5z\ndmciIHdpZHRoPSIyMzYiIGFsdD0iUHJvamVjdHMiIC8+PC9oMj4KCjxoMyBh\nbGlnbj0iY2VudGVyIj7wn5SoIEN1cnJlbnRseSBCdWlsZGluZzwvaDM+Cgo8\ncCBhbGlnbj0iY2VudGVyIj4KICA8YSBocmVmPSJodHRwczovL2dpdGh1Yi5j\nb20vSml2YWFuc2gtWWFkYXYvbGFtYmRhLXByZXAtdGVzdCI+PGltZyBzcmM9\nImFzc2V0cy9jYXJkcy9sYW1iZGEtcHJlcC5zdmciIHdpZHRoPSI0MDAiIGFs\ndD0iTGFtYmRhIFByZXAg4oCUIGEgcmVzb3VyY2UgaHViIGZvciBDSVNDRSBz\ndHVkZW50czsgb3BlbnMgdGhlIHJlcG9zaXRvcnkiIC8+PC9hPgo8L3A+Cgo8\naDMgYWxpZ249ImNlbnRlciI+4pyFIFNoaXBwZWQ8L2gzPgoKPHAgYWxpZ249\nImNlbnRlciI+CiAgPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL0ppdmFh\nbnNoLVlhZGF2L0tyaXNoaUxpbmsiPjxpbWcgc3JjPSJhc3NldHMvY2FyZHMv\na3Jpc2hpbGluay5zdmciIHdpZHRoPSI0MDAiIGFsdD0iS3Jpc2hpTGluayDi\ngJQgYSBkaXJlY3QgbWFya2V0IGZvciBJbmRpYW4gZmFybWVyczsgb3BlbnMg\ndGhlIHJlcG9zaXRvcnkiIC8+PC9hPgogIDxhIGhyZWY9Imh0dHBzOi8vZ2l0\naHViLmNvbS9KaXZhYW5zaC1ZYWRhdi9TcGF0aWFsSW5rIj48aW1nIHNyYz0i\nYXNzZXRzL2NhcmRzL3NwYXRpYWxpbmsuc3ZnIiB3aWR0aD0iNDAwIiBhbHQ9\nIlNwYXRpYWwgSW5rIOKAlCBhaXIgZHJhd2luZyB3aXRoIGEgd2ViY2FtOyBv\ncGVucyB0aGUgcmVwb3NpdG9yeSIgLz48L2E+PGJyIC8+CiAgPGEgaHJlZj0i\naHR0cHM6Ly9rcmlzaGlsaW5rLnBhZ2VzLmRldiI+PGltZyBzcmM9ImFzc2V0\ncy9jYXJkcy9rcmlzaGlsaW5rLWxpdmUuc3ZnIiB3aWR0aD0iNDAwIiBhbHQ9\nIk9wZW4gdGhlIGxpdmUgS3Jpc2hpTGluayBzaXRlIiAvPjwvYT4KICA8YSBo\ncmVmPSJodHRwczovL3NwYXRpYWwtaW5rLnZlcmNlbC5hcHAiPjxpbWcgc3Jj\nPSJhc3NldHMvY2FyZHMvc3BhdGlhbGluay1saXZlLnN2ZyIgd2lkdGg9IjQw\nMCIgYWx0PSJPcGVuIHRoZSBsaXZlIFNwYXRpYWwgSW5rIHNpdGUiIC8+PC9h\nPgo8L3A+CjxwIGFsaWduPSJjZW50ZXIiPgogIDxhIGhyZWY9Imh0dHBzOi8v\nZ2l0aHViLmNvbS9KaXZhYW5zaC1ZYWRhdi9wb29rb28tcnVuIj48aW1nIHNy\nYz0iYXNzZXRzL2NhcmRzL3Bvb2tvby1ydW4uc3ZnIiB3aWR0aD0iNDAwIiBh\nbHQ9IlBvb2tvbyBSdW4g4oCUIGFuIGVuZGxlc3MgcnVubmVyIHRocm91Z2gg\nYSBwcm9jZWR1cmFsIGZvcmVzdDsgb3BlbnMgdGhlIHJlcG9zaXRvcnkiIC8+\nPC9hPgogIDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9KaXZhYW5zaC1Z\nYWRhdi9pY3NlLXJlc291cmNlcyI+PGltZyBzcmM9ImFzc2V0cy9jYXJkcy9p\nY3NlLXJlc291cmNlcy5zdmciIHdpZHRoPSI0MDAiIGFsdD0iSUNTRSBSZXNv\ndXJjZXMg4oCUIGEgcmVzb3VyY2UgcG9ydGFsIGZvciBJQ1NFIENsYXNzIDEw\nOyBvcGVucyB0aGUgcmVwb3NpdG9yeSIgLz48L2E+PGJyIC8+CiAgPGEgaHJl\nZj0iaHR0cHM6Ly9wb29rb28tcnVuLnZlcmNlbC5hcHAiPjxpbWcgc3JjPSJh\nc3NldHMvY2FyZHMvcG9va29vLXJ1bi1saXZlLnN2ZyIgd2lkdGg9IjQwMCIg\nYWx0PSJPcGVuIHRoZSBsaXZlIFBvb2tvbyBSdW4gc2l0ZSIgLz48L2E+CiAg\nPGEgaHJlZj0iaHR0cHM6Ly9pY3NlLXJlc291cmNlcy5wYWdlcy5kZXYiPjxp\nbWcgc3JjPSJhc3NldHMvY2FyZHMvaWNzZS1yZXNvdXJjZXMtbGl2ZS5zdmci\nIHdpZHRoPSI0MDAiIGFsdD0iT3BlbiB0aGUgbGl2ZSBJQ1NFIFJlc291cmNl\ncyBzaXRlIiAvPjwvYT4KPC9wPgo8cCBhbGlnbj0iY2VudGVyIj4KICA8YSBo\ncmVmPSJodHRwczovL2dpdGh1Yi5jb20vSml2YWFuc2gtWWFkYXYvTWV0ZW9O\nZXJkIj48aW1nIHNyYz0iYXNzZXRzL2NhcmRzL21ldGVvbmVyZC5zdmciIHdp\nZHRoPSI0MDAiIGFsdD0iTWV0ZW9OZXJkIOKAlCBldmVyeSB3ZWF0aGVyIHZh\ncmlhYmxlIE9wZW4tTWV0ZW8gcHVibGlzaGVzOyBvcGVucyB0aGUgcmVwb3Np\ndG9yeSIgLz48L2E+CiAgPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL0pp\ndmFhbnNoLVlhZGF2P3RhYj1yZXBvc2l0b3JpZXMiPjxpbWcgc3JjPSJhc3Nl\ndHMvY2FyZHMvbW9yZS5zdmciIHdpZHRoPSI0MDAiIGFsdD0iQW5kIG11Y2gg\nbW9yZSBpbiB0aGUgd29ya3Mg4oCUIGJyb3dzZSBhbGwgcmVwb3NpdG9yaWVz\nIiAvPjwvYT48YnIgLz4KICA8YSBocmVmPSJodHRwczovL21ldGVvbmVyZC5w\nYWdlcy5kZXYiPjxpbWcgc3JjPSJhc3NldHMvY2FyZHMvbWV0ZW9uZXJkLWxp\ndmUuc3ZnIiB3aWR0aD0iNDAwIiBhbHQ9Ik9wZW4gdGhlIGxpdmUgTWV0ZW9O\nZXJkIHNpdGUiIC8+PC9hPgogIDxpbWcgc3JjPSJhc3NldHMvY2FyZHMvc3Bh\nY2VyLnN2ZyIgd2lkdGg9IjQwMCIgYWx0PSIiIC8+CjwvcD4KCjxwIGFsaWdu\nPSJjZW50ZXIiPjxpbWcgc3JjPSJhc3NldHMvdWkvZGl2aWRlci5zdmciIHdp\nZHRoPSI3MjAiIGFsdD0iIiAvPjwvcD4KCjwhLS0g4pWQ4pWQ4pWQ4pWQ4pWQ\n4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQIFNU\nQUNLIOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKV\nkOKVkOKVkOKVkOKVkOKVkCAtLT4KPGgyIGFsaWduPSJjZW50ZXIiIGlkPSJz\ndGFjayI+PGltZyBzcmM9ImFzc2V0cy91aS9oLXN0YWNrLnN2ZyIgd2lkdGg9\nIjI2NSIgYWx0PSJUZWNoIFN0YWNrIiAvPjwvaDI+Cgo8cCBhbGlnbj0iY2Vu\ndGVyIj4KICA8aW1nIHNyYz0iYXNzZXRzL3VpL2xibC1mcm9udGVuZC5zdmci\nIHdpZHRoPSIxNzAiIGFsdD0iRnJvbnRlbmQiIC8+PGJyIC8+CiAgPGltZyBz\ncmM9Imh0dHBzOi8vc2tpbGxpY29ucy5kZXYvaWNvbnM/aT10cyxqcyxyZWFj\ndCxuZXh0anMsdGFpbHdpbmQsaHRtbCxjc3MiIGFsdD0iRnJvbnRlbmQgaWNv\nbnMiIC8+CjwvcD4KPHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9ImFz\nc2V0cy91aS9sYmwtYmFja2VuZC5zdmciIHdpZHRoPSIxNzAiIGFsdD0iQmFj\na2VuZCBhbmQgaW5mcmEiIC8+PGJyIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8v\nc2tpbGxpY29ucy5kZXYvaWNvbnM/aT1jbG91ZGZsYXJlLHN1cGFiYXNlLG5v\nZGVqcyxwb3N0Z3JlcyIgYWx0PSJCYWNrZW5kIGljb25zIiAvPgo8L3A+Cjxw\nIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSJhc3NldHMvdWkvbGJsLW1v\nYmlsZS5zdmciIHdpZHRoPSIxNzAiIGFsdD0iTW9iaWxlIiAvPjxiciAvPgog\nIDxpbWcgc3JjPSJodHRwczovL3NraWxsaWNvbnMuZGV2L2ljb25zP2k9a290\nbGluLGFuZHJvaWRzdHVkaW8iIGFsdD0iTW9iaWxlIGljb25zIiAvPgo8L3A+\nCjxwIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSJhc3NldHMvdWkvbGJs\nLWxhbmd1YWdlcy5zdmciIHdpZHRoPSIxNzAiIGFsdD0iTGFuZ3VhZ2VzIiAv\nPjxiciAvPgogIDxpbWcgc3JjPSJodHRwczovL3NraWxsaWNvbnMuZGV2L2lj\nb25zP2k9cHl0aG9uLGphdmEsdHMsanMsa290bGluIiBhbHQ9Ikxhbmd1YWdl\nIGljb25zIiAvPgo8L3A+CjxwIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3Jj\nPSJhc3NldHMvdWkvbGJsLXRvb2xzLnN2ZyIgd2lkdGg9IjE3MCIgYWx0PSJU\nb29scyIgLz48YnIgLz4KICA8aW1nIHNyYz0iaHR0cHM6Ly9za2lsbGljb25z\nLmRldi9pY29ucz9pPWdpdCxnaXRodWIsdnNjb2RlLGxpbnV4IiBhbHQ9IlRv\nb2wgaWNvbnMiIC8+CjwvcD4KCjxwIGFsaWduPSJjZW50ZXIiPjxpbWcgc3Jj\nPSJhc3NldHMvdWkvZGl2aWRlci5zdmciIHdpZHRoPSI3MjAiIGFsdD0iIiAv\nPjwvcD4KCjwhLS0g4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ\n4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQIFNUQVRTIOKVkOKVkOKVkOKVkOKV\nkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkCAt\nLT4KPGgyIGFsaWduPSJjZW50ZXIiIGlkPSJzdGF0cyI+PGltZyBzcmM9ImFz\nc2V0cy91aS9oLXN0YXRzLnN2ZyIgd2lkdGg9IjM1MiIgYWx0PSJHaXRIdWIg\nRGFzaGJvYXJkIiAvPjwvaDI+Cgo8cCBhbGlnbj0iY2VudGVyIj4KICA8aW1n\nIHNyYz0iaHR0cHM6Ly9naXRodWItc3RhdHMtZXh0ZW5kZWQudmVyY2VsLmFw\ncC9hcGk/dXNlcm5hbWU9Sml2YWFuc2gtWWFkYXYmcmFua19pY29uPWdpdGh1\nYiZjdXN0b21fdGl0bGU9Sml2YWFuc2glMjdzJTIwR2l0SHViJTIwU3RhdHMm\nc2hvdz1yZXZpZXdzJTJDZGlzY3Vzc2lvbnNfc3RhcnRlZCUyQ2Rpc2N1c3Np\nb25zX2Fuc3dlcmVkJTJDcHJzX21lcmdlZCUyQ3Byc19tZXJnZWRfcGVyY2Vu\ndGFnZSUyQ3Byc19jb21tZW50ZWQlMkNwcnNfcmV2aWV3ZWQlMkNpc3N1ZXNf\nY29tbWVudGVkJTJDY29udHJpYnV0aW9ucyUyQ2FsbF90aW1lX2NvbnRyaWJz\nJnNob3dfaWNvbnM9dHJ1ZSZpbmNsdWRlX2FsbF9jb21taXRzPXRydWUmdGhl\nbWU9dG9reW9uaWdodCZoaWRlX2JvcmRlcj10cnVlJmJvcmRlcl9yYWRpdXM9\nMTgiIGFsdD0iR2l0SHViIHN0YXRzIiAvPgogIDxicj4KICA8aW1nIHNyYz0i\naHR0cHM6Ly9naXRodWItc3RhdHMtZXh0ZW5kZWQudmVyY2VsLmFwcC9hcGkv\ndG9wLWxhbmdzP3VzZXJuYW1lPUppdmFhbnNoLVlhZGF2JmxheW91dD1kb251\ndCZsYW5nc19jb3VudD01JnRoZW1lPXRva3lvbmlnaHQmaGlkZV9ib3JkZXI9\ndHJ1ZSZib3JkZXJfcmFkaXVzPTE4IiBhbHQ9IlRvcCBsYW5ndWFnZXMiIC8+\nCiAgPGltZyBzcmM9Imh0dHBzOi8vc3RyZWFrLXN0YXRzLmRlbW9sYWIuY29t\nLz91c2VyPUppdmFhbnNoLVlhZGF2JnRoZW1lPXRva3lvbmlnaHQmaGlkZV9i\nb3JkZXI9dHJ1ZSZib3JkZXJfcmFkaXVzPTE4IiBhbHQ9IkdpdEh1YiBzdHJl\nYWsiIC8+CjwvcD4KCjxwIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSJo\ndHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vSml2YWFuc2gtWWFk\nYXYvSml2YWFuc2gtWWFkYXYvcmVmcy9oZWFkcy9tYWluL2dpdGh1Yi1tZXRy\naWNzLnN2ZyIgYWx0PSJHaXRIdWIgTWV0cmljcyIgd2lkdGg9IjkwJSIgLz4K\nPC9wPgoKPGgzIGFsaWduPSJjZW50ZXIiPvCfj4YgVHJvcGhpZXM8L2gzPgog\nIDxiciAvPgogIDxwIGFsaWduPSJjZW50ZXIiPgogICAgPGltZyBzcmM9Imh0\ndHBzOi8vZ2l0aHViLXRyb3BoaWVzLmRldm9tYi5jb20vP3VzZXJuYW1lPUpp\ndmFhbnNoLVlhZGF2JnRoZW1lPXRva3lvbmlnaHQmY29sdW1uPTQmbWFyZ2lu\nLXc9MTUmbWFyZ2luLWg9MTUmbm8tYmc9dHJ1ZSZuby1mcmFtZT10cnVlIiBh\nbHQ9IlRyb3BoaWVzIiAvPgogIDwvcD4KCjxoMyBhbGlnbj0iY2VudGVyIj7i\nj7MgQWN0aXZpdHkgb3ZlciB0aW1lPC9oMz4KICA8YnIgLz4KICA8cCBhbGln\nbj0iY2VudGVyIj4KICAgIDxpbWcgc3JjPSJodHRwczovL2dpdGh1Yi1yZWFk\nbWUtYWN0aXZpdHktZ3JhcGgtc2VsZi1jaGkudmVyY2VsLmFwcC9ncmFwaD91\nc2VybmFtZT1KaXZhYW5zaC1ZYWRhdiZ0aGVtZT10b2t5by1uaWdodCZoaWRl\nX2JvcmRlcj10cnVlJnJhZGl1cz0xOCIgYWx0PSJBY3Rpdml0eSBncmFwaCIg\nLz4KICA8L3A+CgoKPHAgYWxpZ249ImNlbnRlciI+PGltZyBzcmM9ImFzc2V0\ncy91aS9kaXZpZGVyLnN2ZyIgd2lkdGg9IjcyMCIgYWx0PSIiIC8+PC9wPgoK\nPCEtLSDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDi\nlZDilZDilZDilZDilZDilZAgQ09OVEFDVCDilZDilZDilZDilZDilZDilZDi\nlZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZAgLS0+Cjxo\nMiBhbGlnbj0iY2VudGVyIiBpZD0iY29udGFjdCI+PGltZyBzcmM9ImFzc2V0\ncy91aS9oLWNvbnRhY3Quc3ZnIiB3aWR0aD0iMzA4IiBhbHQ9IkxldCdzIENv\nbm5lY3QiIC8+PC9oMj4KCjxwIGFsaWduPSJjZW50ZXIiPgogIDxhIGhyZWY9\nIm1haWx0bzpqaXZhYW5zaHlhZGF2QGdtYWlsLmNvbSI+PGltZyBzcmM9ImFz\nc2V0cy91aS9jdGEuc3ZnIiB3aWR0aD0iNjAwIiBhbHQ9IkxldCdzIGJ1aWxk\nIHNvbWV0aGluZyB3ZWlyZC4gU2F5IGhpLiIgLz48L2E+CjwvcD4KCjxwIGFs\naWduPSJjZW50ZXIiPgogIDxhIGhyZWY9Im1haWx0bzpqaXZhYW5zaHlhZGF2\nQGdtYWlsLmNvbSI+PGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8v\nYmFkZ2UvRW1haWwtRDE0ODM2P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1n\nbWFpbCZsb2dvQ29sb3I9d2hpdGUiIGFsdD0iRW1haWwiIC8+PC9hPgogIDxh\nIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9KaXZhYW5zaC1ZYWRhdiI+PGlt\nZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvR2l0SHViLTE4\nMTcxNz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289Z2l0aHViJmxvZ29Db2xv\ncj13aGl0ZSIgYWx0PSJHaXRIdWIiIC8+PC9hPgo8L3A+Cgo8cCBhbGlnbj0i\nY2VudGVyIj4KICA8aW1nIHNyYz0iaHR0cHM6Ly9xdW90ZXMtZ2l0aHViLXJl\nYWRtZS52ZXJjZWwuYXBwL2FwaT90eXBlPWhvcml6b250YWwmdGhlbWU9dG9r\neW9uaWdodCIgYWx0PSJSYW5kb20gRGV2IFF1b3RlIiAvPgo8L3A+Cgo8cCBh\nbGlnbj0iY2VudGVyIj4KICA8aW1nIHNyYz0iaHR0cHM6Ly9jYXBzdWxlLXJl\nbmRlci52ZXJjZWwuYXBwL2FwaT90eXBlPXdhdmluZyZjb2xvcj0wOjM2QkNG\nNyw1MDoxZjZmZWIsMTAwOjBmMTExYSZoZWlnaHQ9MTIwJnNlY3Rpb249Zm9v\ndGVyIiB3aWR0aD0iMTAwJSIgYWx0PSJGb290ZXIgYmFubmVyIiAvPgo8L3A+\nCg==\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/Jivaansh-Yadav/Jivaansh-Yadav/contents/README.md?ref=270a754","git":"https://api.github.com/repos/Jivaansh-Yadav/Jivaansh-Yadav/git/blobs/35ddf18fda649aaa25e0afb044518d78bf7de66c","html":"https://github.com/Jivaansh-Yadav/Jivaansh-Yadav/blob/270a754/README.md"}}
+<!-- ═══════════════════ HEADER ═══════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f111a,50:1f6feb,100:36BCF7&height=220&section=header&text=Jivaansh%20Yadav&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Vibe%20Coder&descSize=20&descAlignY=60&animation=twinkling" width="100%" alt="Header banner" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jivaansh-Yadav">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Jivaansh;Full-Stack+Vibe+Coder;Frontend+%E2%86%92+Backend+%E2%86%92+Deploy;Currently+obsessed+with+weird+side-quests" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jivaansh-Yadav&style=flat-square&color=orange&label=Profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Jivaansh-Yadav?style=flat-square&logo=github&color=36BCF7&labelColor=161b22" alt="Followers" />
+  <img src="https://img.shields.io/badge/Vibe_Coder-Full_Stack-f7768e?style=flat-square&logo=googlegemini&logoColor=white&labelColor=161b22" alt="Vibe Coder" />
+  <img src="https://img.shields.io/badge/License-MIT-9ece6a?style=flat-square&labelColor=161b22" alt="MIT" />
+</p>
+
+<!-- nav -->
+<p align="center">
+  <a href="#about"><img src="assets/ui/nav-about.svg" width="108" alt="About" /></a>
+  <a href="#projects"><img src="assets/ui/nav-projects.svg" width="108" alt="Projects" /></a>
+  <a href="#stack"><img src="assets/ui/nav-stack.svg" width="108" alt="Stack" /></a>
+  <a href="#stats"><img src="assets/ui/nav-stats.svg" width="108" alt="Stats" /></a>
+  <a href="#contact"><img src="assets/ui/nav-contact.svg" width="108" alt="Contact" /></a>
+</p>
+
+<!-- ═══════════════════ AT A GLANCE ═══════════════════ -->
+<p align="center">
+  <img src="assets/ui/stat-shipped.svg" width="190" alt="5 projects shipped" />
+  <img src="assets/ui/stat-building.svg" width="190" alt="1 currently building" />
+  <img src="assets/ui/stat-e2e.svg" width="190" alt="End to end: frontend to deploy" />
+  <img src="assets/ui/stat-core.svg" width="190" alt="TypeScript, React and Cloudflare core" />
+</p>
+
+<p align="center"><img src="assets/ui/divider.svg" width="720" alt="" /></p>
+
+<!-- ═══════════════════ ABOUT ═══════════════════ -->
+<h2 align="center" id="about"><img src="assets/ui/h-about.svg" width="236" alt="About Me" /></h2>
+
+<p align="center">
+  <img src="assets/ui/about-bio.svg" width="400" alt="Vibe coder, full-stack by feel" />
+  <img src="assets/ui/about-facts.svg" width="400" alt="Quick facts" />
+</p>
+
+<p align="center">
+  <img src="assets/ui/terminal.svg" width="600" alt="Terminal: whoami, stack, what I'm building now" />
+</p>
+
+<p align="center"><img src="assets/ui/divider.svg" width="720" alt="" /></p>
+
+<!-- ═══════════════════ PROJECTS ═══════════════════ -->
+<h2 align="center" id="projects"><img src="assets/ui/h-projects.svg" width="236" alt="Projects" /></h2>
+
+<h3 align="center">🔨 Currently Building</h3>
+
+<p align="center">
+  <a href="https://github.com/Jivaansh-Yadav/lambda-prep-test"><img src="assets/cards/lambda-prep.svg" width="400" alt="Lambda Prep — a resource hub for CISCE students; opens the repository" /></a>
+</p>
+
+<h3 align="center">✅ Shipped</h3>
+
+<p align="center">
+  <a href="https://github.com/Jivaansh-Yadav/KrishiLink"><img src="assets/cards/krishilink.svg" width="400" alt="KrishiLink — a direct market for Indian farmers; opens the repository" /></a>
+  <a href="https://github.com/Jivaansh-Yadav/SpatialInk"><img src="assets/cards/spatialink.svg" width="400" alt="Spatial Ink — air drawing with a webcam; opens the repository" /></a><br />
+  <a href="https://krishilink.pages.dev"><img src="assets/cards/krishilink-live.svg" width="400" alt="Open the live KrishiLink site" /></a>
+  <a href="https://spatial-ink.vercel.app"><img src="assets/cards/spatialink-live.svg" width="400" alt="Open the live Spatial Ink site" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Jivaansh-Yadav/pookoo-run"><img src="assets/cards/pookoo-run.svg" width="400" alt="Pookoo Run — an endless runner through a procedural forest; opens the repository" /></a>
+  <a href="https://github.com/Jivaansh-Yadav/icse-resources"><img src="assets/cards/icse-resources.svg" width="400" alt="ICSE Resources — a resource portal for ICSE Class 10; opens the repository" /></a><br />
+  <a href="https://pookoo-run.vercel.app"><img src="assets/cards/pookoo-run-live.svg" width="400" alt="Open the live Pookoo Run site" /></a>
+  <a href="https://icse-resources.pages.dev"><img src="assets/cards/icse-resources-live.svg" width="400" alt="Open the live ICSE Resources site" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Jivaansh-Yadav/MeteoNerd"><img src="assets/cards/meteonerd.svg" width="400" alt="MeteoNerd — every weather variable Open-Meteo publishes; opens the repository" /></a>
+  <a href="https://github.com/Jivaansh-Yadav?tab=repositories"><img src="assets/cards/more.svg" width="400" alt="And much more in the works — browse all repositories" /></a><br />
+  <a href="https://meteonerd.pages.dev"><img src="assets/cards/meteonerd-live.svg" width="400" alt="Open the live MeteoNerd site" /></a>
+  <img src="assets/cards/spacer.svg" width="400" alt="" />
+</p>
+
+<p align="center"><img src="assets/ui/divider.svg" width="720" alt="" /></p>
+
+<!-- ═══════════════════ STACK ═══════════════════ -->
+<h2 align="center" id="stack"><img src="assets/ui/h-stack.svg" width="265" alt="Tech Stack" /></h2>
+
+<p align="center">
+  <img src="assets/ui/lbl-frontend.svg" width="170" alt="Frontend" /><br />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" alt="Frontend icons" />
+</p>
+<p align="center">
+  <img src="assets/ui/lbl-backend.svg" width="170" alt="Backend and infra" /><br />
+  <img src="https://skillicons.dev/icons?i=cloudflare,supabase,nodejs,postgres" alt="Backend icons" />
+</p>
+<p align="center">
+  <img src="assets/ui/lbl-mobile.svg" width="170" alt="Mobile" /><br />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" alt="Mobile icons" />
+</p>
+<p align="center">
+  <img src="assets/ui/lbl-languages.svg" width="170" alt="Languages" /><br />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,kotlin" alt="Language icons" />
+</p>
+<p align="center">
+  <img src="assets/ui/lbl-tools.svg" width="170" alt="Tools" /><br />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tool icons" />
+</p>
+
+<p align="center"><img src="assets/ui/divider.svg" width="720" alt="" /></p>
+
+<!-- ═══════════════════ STATS ═══════════════════ -->
+<h2 align="center" id="stats"><img src="assets/ui/h-stats.svg" width="352" alt="GitHub Dashboard" /></h2>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Jivaansh-Yadav&rank_icon=github&custom_title=Jivaansh%27s%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=18" alt="GitHub stats" />
+  <br>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Jivaansh-Yadav&layout=donut&langs_count=5&theme=tokyonight&hide_border=true&border_radius=18" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com/?user=Jivaansh-Yadav&theme=tokyonight&hide_border=true&border_radius=18" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jivaansh-Yadav/Jivaansh-Yadav/refs/heads/main/github-metrics.svg" alt="GitHub Metrics" width="90%" />
+</p>
+
+<h3 align="center">🏆 Trophies</h3>
+  <br />
+  <p align="center">
+    <img src="https://github-trophies.devomb.com/?username=Jivaansh-Yadav&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
+  </p>
+
+<h3 align="center">⏳ Activity over time</h3>
+  <br />
+  <p align="center">
+    <img src="https://github-readme-activity-graph-self-chi.vercel.app/graph?username=Jivaansh-Yadav&theme=tokyo-night&hide_border=true&radius=18" alt="Activity graph" />
+  </p>
+
+
+<p align="center"><img src="assets/ui/divider.svg" width="720" alt="" /></p>
+
+<!-- ═══════════════════ CONTACT ═══════════════════ -->
+<h2 align="center" id="contact"><img src="assets/ui/h-contact.svg" width="308" alt="Let's Connect" /></h2>
+
+<p align="center">
+  <a href="mailto:jivaanshyadav@gmail.com"><img src="assets/ui/cta.svg" width="600" alt="Let's build something weird. Say hi." /></a>
+</p>
+
+<p align="center">
+  <a href="mailto:jivaanshyadav@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Jivaansh-Yadav"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:1f6feb,100:0f111a&height=120&section=footer" width="100%" alt="Footer banner" />
+</p>
